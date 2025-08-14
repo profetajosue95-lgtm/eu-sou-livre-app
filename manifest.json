@@ -1,0 +1,21 @@
+{
+  "name": "Eu Sou Livre",
+  "short_name": "Sou Livre",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B63CE",
+  "theme_color": "#0B63CE",
+  "description": "App da Igreja Eu Sou Livre - Minist\u00e9rio Prof\u00e9tico",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
